@@ -41,6 +41,6 @@
 }
 
 .moveDown:disabled {
-  color: #eeeeee;
+  color: #eee;
   background-color: lightseagreen;
 }
